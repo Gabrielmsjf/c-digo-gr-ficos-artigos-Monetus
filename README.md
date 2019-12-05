@@ -1,5 +1,5 @@
-# c-digo-gr-ficos-artigos-Monetus
-R code of some graphs built for articles that I wrote for the Monetus Blog.
+# Graph code for 
+Those are the articles that I wrote for Monetus.
 
 https://blog.monetus.com.br/fundos-multimercados
 https://blog.monetus.com.br/fundos-de-debentures-incentivadas
